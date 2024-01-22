@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ForegroundService</string>
+    <string name="service_description">Foreground Service to show battery level</string>
+</resources>
